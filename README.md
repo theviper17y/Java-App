@@ -61,3 +61,5 @@ Before using the XSS Scanner, ensure you have the following:
 The XSS Scanner is a powerful tool for identifying potential XSS vulnerabilities in web applications. By following the steps outlined above, you can effectively use the scanner to enhance the security of your web applications.
 
 ## ScreenShots
+
+   [Xss scanner screenshot](https://github.com/theviper17y/Java-App/blob/master/xss_scanner_screenshot.jpg)
