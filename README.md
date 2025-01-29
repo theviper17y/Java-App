@@ -19,7 +19,7 @@ Before using the XSS Scanner, ensure you have the following:
 1. **Clone the Repository**: Clone the repository containing the XSS Scanner code to your local machine.
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/theviper17y/Java-App.git)
    ```
 
 2. **Navigate to the Project Directory**:
