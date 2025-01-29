@@ -19,13 +19,13 @@ Before using the XSS Scanner, ensure you have the following:
 1. **Clone the Repository**: Clone the repository containing the XSS Scanner code to your local machine.
 
    ```bash
-   git clone [<repository-url>](https://github.com/theviper17y/Java-App.git)
+   git clone https://github.com/theviper17y/Java-App.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd <project-directory>
+   cd Java-App
    ```
 
 3. **Add/Install Dependencies**: In Netbeans Add New Java with Ant project:
