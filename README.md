@@ -62,4 +62,4 @@ The XSS Scanner is a powerful tool for identifying potential XSS vulnerabilities
 
 ## ScreenShots
 
-   [Xss scanner screenshot](https://github.com/theviper17y/Java-App/blob/master/xss_scanner_screenshot.jpg)
+   ![Xss scanner screenshot](https://github.com/theviper17y/Java-App/blob/master/xss_scanner_screenshot.jpg)
