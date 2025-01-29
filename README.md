@@ -56,6 +56,11 @@ Before using the XSS Scanner, ensure you have the following:
 - **Payloads**: The application uses a predefined set of XSS payloads. You can modify or extend this list as needed.
 - **Error Handling**: If the application encounters an error (e.g., invalid URL, connection issues), it will display an appropriate message.
 
+## Example of Vulnerable targets
+   - http://testphp.vulnweb.com/
+   - https://vulnerable-site.azurewebsites.net/Xss
+   **Note:** Becarefull using these websites!
+     
 ## Conclusion
 
 The XSS Scanner is a powerful tool for identifying potential XSS vulnerabilities in web applications. By following the steps outlined above, you can effectively use the scanner to enhance the security of your web applications.
