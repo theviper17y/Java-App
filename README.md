@@ -59,6 +59,7 @@ Before using the XSS Scanner, ensure you have the following:
 ## Example of Vulnerable targets
    - http://testphp.vulnweb.com/
    - https://vulnerable-site.azurewebsites.net/Xss
+   
    **Note:** Becarefull using these websites!
      
 ## Conclusion
